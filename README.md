@@ -1,6 +1,6 @@
 ## Hello there 👋
 
--  Pursuing my MS in Applied Data Analytics @ BU and aspiring Data Analyst
+-  Pursuing my MS in Applied Data Analytics @ BU
 -  I’m currently working on a YouTube Comment Sentiment Pipeline Project.
 -  Avid Sports and E-Sports Enthusiast (I'm just a competitive guy)
 -  How to reach me: linkedin.com/in/hrishikkunduru
