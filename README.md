@@ -8,10 +8,11 @@
 Here are some of my projects:
 
 LIVE WEB APPS:
+🌐 **[Try CheckBall Live](https://bit.ly.checkball/)**
 🌐 **[Try DocXScan Web Live](https://docxscan-web.streamlit.app/)**
 🌐 **[Try DocXReplace Web Live](https://docxreplace-web.streamlit.app/)**
 🌐 **[Try CoverLet AI Live](https://coverlet.streamlit.app/)**
-🌐 **[Try CheckBall Live](https://coverlet.streamlit.app/)**
+
 -DocXSuite : Auto Parsing and Batch Data Manipation Work Project including DocXScan and DocXReplace: https://github.com/athrishik/DocXScan/
 
 -Effects of Weather on MBTA TRAVERSAL PROJECT : https://github.com/athrishik/MBTAvsWeatherProject
